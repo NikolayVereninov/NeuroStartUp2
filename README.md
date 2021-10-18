@@ -1,14 +1,10 @@
+# NeuroStartUp
 
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-#
-# On branch master
-# Your branch is up to date with 'origin/master'.
-#
-# Changes to be committed:
-#	new file:   README.md
-#
-# Changes not staged for commit:
-#	deleted:    REDME.md
-#
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
+
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
